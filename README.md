@@ -1,4 +1,4 @@
-# Zethereum Signum ZTH Web Site
+# Zethereum cryptocurrency ZTH Web Site
 Исходный код оффициальной страницы сообщества майнеров криптовалюты Zethereum 
 
 Zethereum — это криптовалюта доказательства приверженности (POC+). Она была выпущена в 2021 году на блокчейне четвертого поколения Signum
