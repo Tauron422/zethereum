@@ -1,4 +1,5 @@
-# phoenix-wallet-rocks
-The Phoenix Wallet Landing Page
+# Zethereum Signum ZTH Web Site
+Исходный код оффициальной страницы сообщества майнеров криптовалюты Zethereum 
 
-> Work in progress
+Zethereum — это криптовалюта доказательства приверженности (POC+). Она была выпущена в 2021 году на блокчейне четвертого поколения Signum
+
